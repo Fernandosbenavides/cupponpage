@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    ;
+}
+
+nav {
+    background-color: #28A745;
+}
+
+section .card-title {
+    font-weight: 300;
+    font-size: 20px;
+    color: #212529;
+}
+
+section .card-text {
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+section .card-ubication {
+    font-weight: 300;
+    font-size: 13px;
+    color: #707070;
+}
+
+section .card-footer {
+    background-color: #FFFFFF;
+}
+
+.small-price {
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.big-price {
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745;
+}
+
+h3 {
+    font-weight: 500px;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.formbg {
+    background-color: #28A745;
+}
+
+footer {
+    font-weight: 300;
+    color: #707070;
+}
